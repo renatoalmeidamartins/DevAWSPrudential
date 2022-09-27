@@ -21,3 +21,7 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
 - Named profiles in the CLI<br>https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html
 - There are plenty of browser extensions to manage roles. A popular one is the AWS Extend Switch Roles. Link for chrome below:<br>https://chrome.google.com/webstore/detail/aws-extend-switch-roles/jpmkfafbacpgapdghgdpembnojdlgkdl
 - Priority order for credential usage when connecting to AWS<br>https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-precedence
+- EBS volume types<br>https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
+- EBS multi-attach<br>https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes-multi.html
+- S3 storage classes compared<br>https://aws.amazon.com/s3/storage-classes/
+- S3 pricing<br>https://aws.amazon.com/s3/pricing/?nc=sn&loc=4
