@@ -18,3 +18,5 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
   - EC2<br>https://docs.aws.amazon.com/cli/latest/reference/ec2/wait/
   - There are several others, just replace the service name in the URL and you will see
 - SDK Error logging<br>https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/java-dg-logging.html
+- Named profiles in the CLI<br>https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html
+- There are plenty of browser extensions to manage roles. A popular one is the AWS Extend Switch Roles. Link for chrome below:<br>https://chrome.google.com/webstore/detail/aws-extend-switch-roles/jpmkfafbacpgapdghgdpembnojdlgkdl
