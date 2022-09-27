@@ -20,3 +20,4 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
 - SDK Error logging<br>https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/java-dg-logging.html
 - Named profiles in the CLI<br>https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html
 - There are plenty of browser extensions to manage roles. A popular one is the AWS Extend Switch Roles. Link for chrome below:<br>https://chrome.google.com/webstore/detail/aws-extend-switch-roles/jpmkfafbacpgapdghgdpembnojdlgkdl
+- Priority order for credential usage when connecting to AWS<br>https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-precedence
