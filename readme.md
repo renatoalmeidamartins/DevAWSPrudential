@@ -12,4 +12,8 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
    - Java blog announcement about retries and timeouts<br>https://aws.amazon.com/blogs/developer/introducing-retry-throttling/
    - specific config for Java SDK<br>https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/section-client-configuration.html
 - Pagination support with the Java SDK<br>https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/pagination.html
-
+- Waiters (available for several services)
+  - DynamoDB<br>https://docs.aws.amazon.com/cli/latest/reference/dynamodb/wait/
+  - S3<br>https://docs.aws.amazon.com/cli/latest/reference/s3/wait/
+  - EC2<br>https://docs.aws.amazon.com/cli/latest/reference/ec2/wait/
+  - There are several others, just replace the service name in the URL and you will see
