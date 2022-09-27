@@ -17,3 +17,4 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
   - S3<br>https://docs.aws.amazon.com/cli/latest/reference/s3/wait/
   - EC2<br>https://docs.aws.amazon.com/cli/latest/reference/ec2/wait/
   - There are several others, just replace the service name in the URL and you will see
+- SDK Error logging<br>https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/java-dg-logging.html
