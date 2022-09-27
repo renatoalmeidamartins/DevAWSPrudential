@@ -25,3 +25,6 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
 - EBS multi-attach<br>https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes-multi.html
 - S3 storage classes compared<br>https://aws.amazon.com/s3/storage-classes/
 - S3 pricing<br>https://aws.amazon.com/s3/pricing/?nc=sn&loc=4
+- S3 helpers for multipart upload<br>
+  - Java<br>https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/s3/transfer/TransferManager.html
+  - .Net<br>https://docs.aws.amazon.com/sdkfornet/v3/apidocs/items/S3/TTransferUtility.html
