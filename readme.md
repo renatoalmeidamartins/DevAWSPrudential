@@ -1,3 +1,4 @@
+# General information
 - Lab + book environment
 https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
 
