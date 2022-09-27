@@ -28,3 +28,4 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
 - S3 helpers for multipart upload<br>
   - Java<br>https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/s3/transfer/TransferManager.html
   - .Net<br>https://docs.aws.amazon.com/sdkfornet/v3/apidocs/items/S3/TTransferUtility.html
+- S3 Select<br>https://docs.aws.amazon.com/AmazonS3/latest/userguide/selecting-content-from-objects.html
