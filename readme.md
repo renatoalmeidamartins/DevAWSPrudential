@@ -42,5 +42,15 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
 - Choosing the right dynamodb partition key<br>https://aws.amazon.com/blogs/database/choosing-the-right-dynamodb-partition-key/
 - Fundamentals of DynamoDB design<br>https://www.youtube.com/watch?v=KYy8X8t4MB8
 - DyanmoDB advanced design<br>https://www.youtube.com/watch?v=xfxBhvGpoa0
+- DynamoDB adapative capacity is instant<br>https://aws.amazon.com/about-aws/whats-new/2019/05/amazon-dynamodb-adaptive-capacity-is-now-instant/
+- DynamoDB burst capacity<br>https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-partition-key-design.html#bp-partition-key-throughput-bursting
+- DynamoDB local<br>https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html
+- NoSQL workbench<br>https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.settingup.html
+- Handling errors in DynamoDB<br>https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Programming.Errors.html
+- Parallel scan concept in DynamoDB<br>https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Scan.html#Scan.ParallelScan
+- DynamoDB Mapper, Java wrapper that takes care of parallel scans<br>https://aws.amazon.com/blogs/aws/amazon-dynamodb-parallel-scans-and-other-good-news/
+- Methods in the DynamoDB mapper class<br>https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBMapper.Methods.html
+- Developing using DynamoDB DAX<br>https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.client.html
+- 
 - 
 - 
