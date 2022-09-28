@@ -29,3 +29,9 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
   - Java<br>https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/s3/transfer/TransferManager.html
   - .Net<br>https://docs.aws.amazon.com/sdkfornet/v3/apidocs/items/S3/TTransferUtility.html
 - S3 Select<br>https://docs.aws.amazon.com/AmazonS3/latest/userguide/selecting-content-from-objects.html
+
+# Day 2 links
+- Policy generator<br>https://awspolicygen.s3.amazonaws.com/policygen.html
+- Sample S3 bucket policies<br>https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-bucket-policies.html
+- 
+- 
