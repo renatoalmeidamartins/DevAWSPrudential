@@ -54,4 +54,4 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
 - Serverless musical parody<br>https://www.youtube.com/watch?v=zMua0cuhFnc
 - Best practices for lambda functions<br>https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html
 - Deplooy Lambda functions in containers<br>https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/deploy-lambda-functions-with-container-images.html
-- 
+- Eventbridge partner integration<br>https://aws.amazon.com/blogs/aws/amazon-eventbridge-event-driven-aws-integration-for-your-saas-applications/
