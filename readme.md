@@ -53,5 +53,5 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
 - Developing using DynamoDB DAX<br>https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.client.html
 - Serverless musical parody<br>https://www.youtube.com/watch?v=zMua0cuhFnc
 - Best practices for lambda functions<br>https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html
-- 
+- Deplooy Lambda functions in containers<br>https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/deploy-lambda-functions-with-container-images.html
 - 
