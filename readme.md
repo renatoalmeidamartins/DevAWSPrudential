@@ -33,5 +33,14 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
 # Day 2 links
 - Policy generator<br>https://awspolicygen.s3.amazonaws.com/policygen.html
 - Sample S3 bucket policies<br>https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-bucket-policies.html
+- DynamoDB paper<br>https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+- Aurora storage basics (2016)<br>https://aws.amazon.com/blogs/database/introducing-the-aurora-storage-engine/
+- Aurora storage reliability<br>https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Overview.StorageReliability.html
+- Aurora serverless deep dive<br>https://www.youtube.com/watch?v=_2o7vVAxst0
+- DynamoDB Fine Grained Access control<br>https://aws.amazon.com/blogs/aws/fine-grained-access-control-for-amazon-dynamodb/
+- DynamoDB best practices<br>https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html
+- Choosing the right dynamodb partition key<br>https://aws.amazon.com/blogs/database/choosing-the-right-dynamodb-partition-key/
+- Fundamentals of DynamoDB design<br>https://www.youtube.com/watch?v=KYy8X8t4MB8
+- DyanmoDB advanced design<br>https://www.youtube.com/watch?v=xfxBhvGpoa0
 - 
 - 
