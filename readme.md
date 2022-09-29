@@ -75,5 +75,7 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
 - SAM repo<br>https://github.com/aws/serverless-application-model
 - SAM app repo<br>https://serverlessrepo.aws.amazon.com/applications
 - SAM samples GitHub repo<br>https://github.com/aws/aws-sam-cli-app-templates
-- 
+- Serverless, a paid-for framework similar to SAM<br>https://www.serverless.com/framework/
+- CDK, offering a way to create any AWS resource in high-level code<br>https://docs.aws.amazon.com/cdk/v2/guide/constructs.html
+- CDK workshop, with walthroughs in several languages<br>https://cdkworkshop.com/
 - 
