@@ -56,4 +56,13 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
 - Deplooy Lambda functions in containers<br>https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/deploy-lambda-functions-with-container-images.html
 - Eventbridge partner integration<br>https://aws.amazon.com/blogs/aws/amazon-eventbridge-event-driven-aws-integration-for-your-saas-applications/
 - Lambda HTTP endpoints<br>https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/
+
+# Day 3 links
+- Velocity conference video that is one of the first DevOps a-ha moments<br>https://www.youtube.com/watch?v=LdOe18KhtT4&t=941s
+- The phoenix project<br>https://www.amazon.com/The-Phoenix-Project-audiobook/
+- The unicorn project<br>https://www.amazon.com/dp/B0812C82T9
+- The devops handbook<br>https://www.amazon.com/DevOps-Handbook-Second-World-Class-Organizations/
+- The state of devops report<br>https://media.webteam.puppet.com/uploads/2021/07/Puppet-State-of-DevOps-Report-2021.pdf
+- Accelerate book<br>https://www.amazon.com/Accelerate-Building-Performing-Technology-Organizations
+- 
 - 
