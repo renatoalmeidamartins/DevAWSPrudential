@@ -69,3 +69,4 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
 - Step Functions state language<br>https://docs.aws.amazon.com/step-functions/latest/dg/supported-services-awssdk.html
 - 12 factor app, good principles for modern applications<br>https://12factor.net/
 - Step function patters for short and long running workflows<br>https://aws.amazon.com/blogs/mobile/invoking-aws-step-functions-short-and-long-running-workflows-from-aws-appsync/ 
+- "There's no place like production", if you are not deploying in production, you are just cheating yourself<br>https://imwrightshardcode.com/2010/12/theres-no-place-like-production/
