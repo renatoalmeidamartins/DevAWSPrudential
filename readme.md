@@ -1,6 +1,11 @@
 # General information
 - Lab + book environment
 https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
+- Evaluation<br>
+You should have received an email with a feedback link. If not:<br>
+Go to aws.training  and sign in.<br>
+After all the prompts go to My Account --> Transcript (top right)<br>
+Go to the Archived Tab, and click on the "Evaluate" button and fill the eval form.
 
 # Day 1 links
 
