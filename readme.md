@@ -78,4 +78,4 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
 - Serverless, a paid-for framework similar to SAM<br>https://www.serverless.com/framework/
 - CDK, offering a way to create any AWS resource in high-level code<br>https://docs.aws.amazon.com/cdk/v2/guide/constructs.html
 - CDK workshop, with walthroughs in several languages<br>https://cdkworkshop.com/
-- 
+- Custom identity provider<br>https://docs.aws.amazon.com/cognito/latest/developerguide/developer-authenticated-identities.html
