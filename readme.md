@@ -66,3 +66,6 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
 - Accelerate book<br>https://www.amazon.com/Accelerate-Building-Performing-Technology-Organizations
 - Strangler fig pattern<br>https://martinfowler.com/bliki/StranglerFigApplication.html
 - Breaking a monolith into microservices<br>https://aws.amazon.com/getting-started/hands-on/break-monolith-app-microservices-ecs-docker-ec2/
+- Step Functions state language<br>https://docs.aws.amazon.com/step-functions/latest/dg/supported-services-awssdk.html
+- 12 factor app, good principles for modern applications<br>https://12factor.net/
+- Step function patters for short and long running workflows<br>https://aws.amazon.com/blogs/mobile/invoking-aws-step-functions-short-and-long-running-workflows-from-aws-appsync/ 
