@@ -84,3 +84,4 @@ Go to the Archived Tab, and click on the "Evaluate" button and fill the eval for
 - CDK, offering a way to create any AWS resource in high-level code<br>https://docs.aws.amazon.com/cdk/v2/guide/constructs.html
 - CDK workshop, with walthroughs in several languages<br>https://cdkworkshop.com/
 - Custom identity provider<br>https://docs.aws.amazon.com/cognito/latest/developerguide/developer-authenticated-identities.html
+- CloudWatch anomaly detection announcement<br>https://aws.amazon.com/about-aws/whats-new/2019/07/introducing-amazon-cloudwatch-anomaly-detection-now-in-preview/
