@@ -64,5 +64,5 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
 - The devops handbook<br>https://www.amazon.com/DevOps-Handbook-Second-World-Class-Organizations/
 - The state of devops report<br>https://media.webteam.puppet.com/uploads/2021/07/Puppet-State-of-DevOps-Report-2021.pdf
 - Accelerate book<br>https://www.amazon.com/Accelerate-Building-Performing-Technology-Organizations
-- 
-- 
+- Strangler fig pattern<br>https://martinfowler.com/bliki/StranglerFigApplication.html
+- Breaking a monolith into microservices<br>https://aws.amazon.com/getting-started/hands-on/break-monolith-app-microservices-ecs-docker-ec2/
