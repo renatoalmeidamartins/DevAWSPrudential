@@ -13,7 +13,10 @@ Go to the Archived Tab, and click on the "Evaluate" button and fill the eval for
 - Measure up, good exam simulation<br>https://www.measureup.com/aws-practice-test-dva-c01-aws-certified-developer-associate.html
 - Whizlabs<br>https://www.whizlabs.com/aws-developer-associate/
 - A cloud guru<br>https://acloudguru.com/
--  
+
+# My contact details
+- Email<br>renatoalmeidamartins@gmail.com
+- Linkedin<br>https://www.linkedin.com/in/renatodealmeidamartins/
 
 # Day 1 links
 
