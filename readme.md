@@ -70,3 +70,10 @@ https://us-east-1.mango.aws.training/class/kK9sQwVqnhwp1WHDoWTRdy
 - 12 factor app, good principles for modern applications<br>https://12factor.net/
 - Step function patters for short and long running workflows<br>https://aws.amazon.com/blogs/mobile/invoking-aws-step-functions-short-and-long-running-workflows-from-aws-appsync/ 
 - "There's no place like production", if you are not deploying in production, you are just cheating yourself<br>https://imwrightshardcode.com/2010/12/theres-no-place-like-production/
+- Code Build docker images<br>https://docs.aws.amazon.com/codebuild/latest/userguide/build-env-ref-available.html
+- SAM CLI repo<br>https://github.com/aws/aws-sam-cli
+- SAM repo<br>https://github.com/aws/serverless-application-model
+- SAM app repo<br>https://serverlessrepo.aws.amazon.com/applications
+- SAM samples GitHub repo<br>https://github.com/aws/aws-sam-cli-app-templates
+- 
+- 
