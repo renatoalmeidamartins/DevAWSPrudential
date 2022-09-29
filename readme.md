@@ -7,6 +7,14 @@ Go to aws.training  and sign in.<br>
 After all the prompts go to My Account --> Transcript (top right)<br>
 Go to the Archived Tab, and click on the "Evaluate" button and fill the eval form.
 
+# Additional study resources
+- Exam information page, with 10 sample questions<br>https://aws.amazon.com/certification/certified-developer-associate/
+- Skill builder, with a lot of training and exam prep questions<br>https://explore.skillbuilder.aws/learn
+- Measure up, good exam simulation<br>https://www.measureup.com/aws-practice-test-dva-c01-aws-certified-developer-associate.html
+- Whizlabs<br>https://www.whizlabs.com/aws-developer-associate/
+- A cloud guru<br>https://acloudguru.com/
+-  
+
 # Day 1 links
 
 - AWS developer tools<br>https://aws.amazon.com/developer/tools/
